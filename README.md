@@ -2,6 +2,7 @@
 
 Đây là một dự án game đơn giản được xây dựng bằng HTML, CSS và JavaScript. Người chơi cần đoán một con số bí mật được máy tính tạo ra ngẫu nhiên từ 1 đến 20.
 
+![Game Screenshot](screenshot.png)
 ## ✨ Các tính năng chính
 
 * Máy tính tự động tạo một con số bí mật trong khoảng từ 1 đến 20.
